@@ -1,10 +1,4 @@
-﻿//
-//  main.cpp
-//  test
-//
-//  Created by 徐亦燊 on 2020/2/28.
-//  Copyright  2020 徐亦燊. All rights reserved.
-//
+﻿
 
 #include <iostream>
 #include <opencv2/opencv.hpp>
